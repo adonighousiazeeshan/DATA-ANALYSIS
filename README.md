@@ -1,3 +1,7 @@
+Hey there 👋👋
+my name is ADONI GHOUSIA ZEESHAN 
+your are heartly welcomed to my data set analysis!!
+
 # DATA-ANALYSIS
 ###KAGGLE DATASET 
 ["https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?rvi=1"]
